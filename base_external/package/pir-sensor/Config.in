@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PIR_SENSOR
+	bool "pir sensor"
+depends on BR2_LINUX_KERNEL
+	help
+	   pir sensor
