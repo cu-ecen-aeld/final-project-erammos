@@ -1,3 +1,3 @@
-# Issues
-https://github.com/erammos/final-project-assignment-eramm/issues
+# Project
+https://github.com/users/erammos/projects/3
 
